@@ -1,0 +1,14 @@
+{
+  "name": "vite-plugin-virtual-html-example",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.8.0",
+    "vite-plugin-virtual-html": "^0.2.3"
+  }
+}
